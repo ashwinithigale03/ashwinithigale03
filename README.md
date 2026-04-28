@@ -32,7 +32,7 @@
 
 ## 📊 Data Analyst Projects
 
-### 🔹 Sales Performance Dashboard
+### 🔹 AQI Index Analysis
 - Built interactive Power BI dashboard  
 - Identified top-performing regions and sales trends  
 
@@ -40,11 +40,11 @@
 - Analyzed loan dataset using Python & SQL  
 - Identified key risk factors  
 
-### 🔹 Customer Segmentation
+### 🔹 Credit Card Report
 - Performed clustering to group customers  
 - Enabled targeted marketing insights  
 
-### 🔹 Rainfall Data Analysis
+### 🔹 Mobile Sales Dashboard
 - Used SQL for data transformation  
 - Created dashboards for trend analysis  
 
