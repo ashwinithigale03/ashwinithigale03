@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
 
-🎯 **Aspiring Data Analyst**  
+🎯 **Data Analyst**  
 📊 Turning raw data into meaningful insights 
 
 ## 🚀 About Me
