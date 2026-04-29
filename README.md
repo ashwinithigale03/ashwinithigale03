@@ -33,6 +33,7 @@
 ## 📊 Data Analyst Projects
 
 ### 🔹 AQI Index Analysis
+
 - Identified 20–30% higher AQI levels during winter months, highlighting seasonal pollution trends
 - Reduced manual analysis effort by ~40% through automated Power BI dashboard and KPI tracking
 - Analyzed multiple cities and pollutants, enabling faster comparison and trend identification
@@ -40,6 +41,7 @@
 - Enabled quicker decision-making by providing real-time insights on key pollutants (PM2.5, PM10)
 
 ### 🔹 Loan Default Analysis
+
 - Improved decision-making efficiency by ~30% by consolidating loan data into a single interactive dashboard.
 - Reduced manual analysis effort by 40%+ through automated KPIs and DAX-driven calculations.
 - Identified high-risk borrower segments (unemployed with ~3.39% default rate) enabling better risk assessment strategies.
@@ -48,6 +50,7 @@
 - Delivered actionable insights that can help optimize loan approval and reduce default risk.
 
 ### 🔹 Credit Card Report
+
 - Improved reporting efficiency by ~40–50% by automating manual analysis through interactive Power BI dashboards
 - Reduced data processing time by ~30% using optimized Power Query transformations and data modeling
 - Enabled faster decision-making by providing real-time KPIs and trend analysis across customer segments
@@ -55,6 +58,7 @@
 - Enhanced data accuracy and consistency through structured data cleaning and validation processes
 
 ### 🔹 Mobile Sales Dashboard
+
 - Improved sales performance visibility by 40% through interactive KPI dashboards, enabling faster stakeholder decision-making
 - Reduced manual reporting effort by ~30% by automating data transformation and visualization using Power BI
 - Identified top-performing products contributing ~60% of revenue, helping prioritize high-impact sales strategies
