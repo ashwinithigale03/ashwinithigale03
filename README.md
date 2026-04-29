@@ -70,5 +70,5 @@ I enjoy turning messy data into clean, meaningful insights 📊✨
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: www.linkedin.com/in/ashwini-thigale-data-analyst 
-- 📊 Portfolio (Power BI): [Click here to see My CV created in Power BI](https://app.powerbi.com/groups/0097b8fd-81ca-4466-9148-9eacaa2584bd/reports/f8d2cede-a1aa-4d74-af12-e5554f39a0a0/2c5cf52965235d7c7e8a?experience=power-bi)
-- 📄 Resume: 
+- 📊 Portfolio (Power BI): [Click here to see My CV created in Power BI](https://github.com/ashwinithigale03/ashwinithigale03/raw/main/Ashwini_Thigale_CV.pbix)
+- 📄 Resume:[Click here to download resume](https://github.com/ashwinithigale03/ashwinithigale03/raw/main/Ashwini%20Thigale%20Data%20Analyst%204%2B%20years.pdf)
